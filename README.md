@@ -57,6 +57,6 @@ Dump full memory knowing the Process ID
 |-fd|Create a Full Dump of the process. Includes any type of memory: PRIVATE, IMAGE and MAPPED on Windows and PRIVATE and SHARED on Linux.|
 
 ## License
-Copyright (c) 2022, ZaikoARG. All rights reserved.
+Copyright © 2022, ZaikoARG. All rights reserved.
 
 Licensed under the Apache 2.0 License.
