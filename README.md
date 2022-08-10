@@ -5,11 +5,14 @@
 <p align="center">
     <em>PyDump, cross-platform solution for Memory Dumps</em></p>
   <p align="center">
-    <a href="">
+    <a href="https://github.com/ZaikoARG/PyDump/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/license-Apache%202-blue.svg" />
     </a>
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python%203-red.svg" />
+    </a>
+    <a href="">
+    	<img src="https://img.shields.io/badge/platform-Win%2032%20%7C%20Win%2064%20%7C%20Linux%2032%20%7C%20Linux%2064-blue.svg" />
     </a>
   </p>
 </p>
